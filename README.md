@@ -19,6 +19,20 @@ EthCourseMarketplace is a decentralized application (dApp) built on the Ethereum
 4. **Truffle Integration**: Manage and deploy smart contracts using Truffle.
 5. **Next.js Framework**: Built with Next.js for server-side rendering and static site generation.
 
+## Tech Stack
+
+1. **Next.js**: Framework for building server-side rendered React applications.
+2. **React**: JavaScript library for building user interfaces.
+3. **Tailwind CSS**: Utility-first CSS framework for styling.
+4. **SWR**: React hooks library for data fetching.
+5. **Ethereum**: Blockchain platform used for deploying and interacting with smart contracts.
+6. **Web3.js**: JavaScript library for interacting with the Ethereum blockchain.
+7. **Truffle**: Development framework for Ethereum.
+8. **Ganache**: Personal blockchain for Ethereum development.
+9. **Metamask**: Browser extension for managing Ethereum accounts and interacting with dApps.
+10. **Solidity**: Programming language for writing smart contracts.
+11. **Node.js**: JavaScript runtime for running the application.
+
 ## Blockchain Terminologies
 
 1. **Consensus Algorithm**:
