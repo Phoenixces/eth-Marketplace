@@ -27,15 +27,18 @@ export default function Marketplace({courses}) {
       { type: "address", value: account.data }
     )
 
+    console.log(orderHash)
     const value = web3.utils.toWei(String(order.price))
 
     setBusyCourseId(course.id)
     if (isNewPurchase) {
       const emailHash = web3.utils.sha3(order.email)
+      console.log(emailHash)
       const proof = web3.utils.soliditySha3(
         { type: "bytes32", value: emailHash },
         { type: "bytes32", value: orderHash }
       )
+      console.log(proof)
 
       withToast(_purchaseCourse({hexCourseId, proof, value}, course))
     } else {
