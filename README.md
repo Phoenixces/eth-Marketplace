@@ -54,6 +54,12 @@ EthCourseMarketplace is a decentralized application (dApp) built on the Ethereum
    - **Address**: A unique identifier for an account on the Ethereum network.
    - **ABI (Application Binary Interface)**: A standard way to interact with smart contracts.
 
+5. **Current ETH Price and Conversions**
+- **1 ETH** = 1,000,000,000 Gwei (1 billion Gwei)
+- **1 ETH** = 1,000,000,000,000,000,000 Wei (1 quintillion Wei)
+- **Current ETH Price**: Approximately $1,800 USD (Note: This value fluctuates and should be checked for the latest price)
+
+
 ## Prerequisites
 
 - Node.js (v17)
