@@ -156,3 +156,7 @@ truffle migrate --reset
 - **Environment Configuration**: `.env.development` and `.env.production` files.
 - **Truffle Configuration**: `truffle-config.js`
 - **Next.js Configuration**: `next.config.js`
+
+## Demo Video
+
+[Click here to watch](https://www.canva.com/design/DAGYreDC7kU/wQdCXdLrTELwoZAKScFTBg/watch?utm_content=DAGYreDC7kU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb1e580f223)
