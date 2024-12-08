@@ -77,6 +77,7 @@ EthCourseMarketplace is a decentralized application (dApp) built on the Ethereum
 - Python 3
 - Ganache (for local blockchain)
 - Metamask (browser extension)
+- Hash Converter (https://emn178.github.io/online-tools/keccak_256.html)
 
 ## Installation
 
