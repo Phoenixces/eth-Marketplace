@@ -159,4 +159,4 @@ truffle migrate --reset
 
 ## Demo Video
 
-[Click here to watch](https://www.canva.com/design/DAGYreDC7kU/wQdCXdLrTELwoZAKScFTBg/watch?utm_content=DAGYreDC7kU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb1e580f223)
+[Click here to watch](https://www.canva.com/design/DAGYrZwhToo/oTBM-pb6Z8JG9XlnhudiLA/view?utm_content=DAGYrZwhToo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hae41a828cf)
