@@ -12,13 +12,6 @@ EthCourseMarketplace is a decentralized application (dApp) built on the Ethereum
 4. **Course Deactivation**: Courses can be deactivated if purchase data is incorrect.
 5. **Email Verification**: Ensure correct email input for order verification.
 
-### For Developers
-1. **Smart Contracts**: Utilizes Solidity smart contracts for managing course transactions.
-2. **Environment Configuration**: Easily switch between development and production environments using `.env` files.
-3. **Gas Fee Calculation**: Custom settings for gas and transaction fees.
-4. **Truffle Integration**: Manage and deploy smart contracts using Truffle.
-5. **Next.js Framework**: Built with Next.js for server-side rendering and static site generation.
-
 ## Tech Stack
 
 1. **Next.js**: Framework for building server-side rendered React applications.
@@ -163,3 +156,7 @@ truffle migrate --reset
 - **Environment Configuration**: `.env.development` and `.env.production` files.
 - **Truffle Configuration**: `truffle-config.js`
 - **Next.js Configuration**: `next.config.js`
+
+## Demo Video
+
+[Click here to watch](https://www.canva.com/design/DAGYreDC7kU/wQdCXdLrTELwoZAKScFTBg/watch?utm_content=DAGYreDC7kU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb1e580f223)
