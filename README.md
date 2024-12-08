@@ -2,6 +2,10 @@
 
 EthCourseMarketplace is a decentralized application (dApp) built on the Ethereum blockchain. It allows users to buy and sell courses using Ethereum. The application leverages smart contracts to manage course ownership and transactions securely.
 
+## Demo Video
+
+[Click here to watch](https://www.canva.com/design/DAGYrZwhToo/oTBM-pb6Z8JG9XlnhudiLA/view?utm_content=DAGYrZwhToo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hae41a828cf)
+
 ## Features
 
 ### For Users and Admin user
@@ -157,6 +161,4 @@ truffle migrate --reset
 - **Truffle Configuration**: `truffle-config.js`
 - **Next.js Configuration**: `next.config.js`
 
-## Demo Video
 
-[Click here to watch](https://www.canva.com/design/DAGYrZwhToo/oTBM-pb6Z8JG9XlnhudiLA/view?utm_content=DAGYrZwhToo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hae41a828cf)
